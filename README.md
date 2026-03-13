@@ -1,4 +1,4 @@
-# SEEDIT_JAVA 🚀
+# SEEDIT_JAVA 
 
 This repository contains Java programming problems solved as part of my daily coding practice.
 
