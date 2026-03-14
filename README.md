@@ -15,7 +15,7 @@ Each folder represents a problem with its solution and explanation.
 | Day 3 | Value of Cards            | `03_VALUE_OF_CARDS`            |
 | Day 4 | Least Absolute Difference | `04_LEAST_ABSOLUTE_DIFFERENCE` |
 | Day 5 | Check Power of Two        | `05_CHECK_POWER_OF_TWO`        |
-
+| Day 6 | Minimum moves unique donation counts        | `MINIMUM_MOVES_UNIQUE_DONATION_COUNTS`        |
 ---
 
 ## 📂 Repository Structure
@@ -28,6 +28,7 @@ SEEDIT_JAVA
 ├── 03_VALUE_OF_CARDS
 ├── 04_LEAST_ABSOLUTE_DIFFERENCE
 ├── 05_CHECK_POWER_OF_TWO
+├── 06_MINIMUM_MOVES_UNIQUE_DONATION_COUNTS
 └── README.md
 ```
 
