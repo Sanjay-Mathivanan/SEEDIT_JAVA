@@ -16,7 +16,7 @@ Each folder represents a problem with its solution and explanation.
 | Day 4 | Least Absolute Difference | `04_LEAST_ABSOLUTE_DIFFERENCE` |
 | Day 5 | Check Power of Two        | `05_CHECK_POWER_OF_TWO`        |
 | Day 6 | Minimum moves unique donation counts        | `06_MINIMUM_MOVES_UNIQUE_DONATION_COUNTS`        |
-| Day 5 | Word Average ASCII        | `07_WORD_AVERAGE_ASCII`        |
+| Day 7 | Word Average ASCII        | `07_WORD_AVERAGE_ASCII`        |
 ---
 
 ## 📂 Repository Structure
