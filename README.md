@@ -18,7 +18,7 @@ Each folder represents a problem with its solution and explanation.
 | Day 6 | Minimum moves unique donation counts        | `06_MINIMUM_MOVES_UNIQUE_DONATION_COUNTS`        |
 | Day 7 | Word Average ASCII        | `07_WORD_AVERAGE_ASCII`        |
 | Day 8 | Hexadecimal Addition        | `08_HEXADECIMAL_ADDITION`        |
-
+| Day 9 | BMI Category        | `09_BMI_CATEGORY`        |
 ---
 
 ## 📂 Repository Structure
@@ -34,6 +34,7 @@ SEEDIT_JAVA
 ├── 06_MINIMUM_MOVES_UNIQUE_DONATION_COUNTS
 ├── 07_WORD_AVERAGE_ASCII
 ├── 08_HEXADECIMAL_ADDITION
+├── 09_BMI_CATEGORY
 └── README.md
 ```
 
